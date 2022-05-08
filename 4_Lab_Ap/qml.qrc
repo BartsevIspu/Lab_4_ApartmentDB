@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DelegateForAp.qml</file>
+        <file>DialogForAddorEdit.qml</file>
+    </qresource>
+</RCC>
